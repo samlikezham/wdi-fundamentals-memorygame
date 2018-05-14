@@ -5,7 +5,6 @@ body {
 }
 
 h1 {
-/*	color: #0d2c40;*/
 	color: white;
 	letter-spacing: 1px;
 	font-weight: 400;
@@ -24,7 +23,6 @@ h2 {
 
 a {
 	text-decoration: none;
-/*	color: #f15b31;*/
 	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
